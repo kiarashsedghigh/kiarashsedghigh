@@ -3,7 +3,7 @@ Welcome to my corner of GitHub! I'm a Ph.D. student in Applied Cryptography at t
 
 ## 👀 A bit about me
 - 🔐 I’m passionate about **cryptographic schemes** that safeguard the next generation of networked systems, with a particular focus on post-quantum security and lightweight digital signatures.
-- 🤖 I’m also expanding my research into **privacy-enhancing technologies (PETs)** like Multi-party Computation (MPC) and Fully Homomorphic Encryption (FHE), as well as **AI** solutions like Federated Learning (FL).
+- 🤖 I’m also expanding my research into **privacy-enhancing technologies (PETs)** like Multi-party Computation (MPC) and Fully Homomorphic Encryption (FHE).
 - 🧠 Always excited by **cryptography, machine learning, and secure system design**!
 
 ## 🌱 Currently Learning
