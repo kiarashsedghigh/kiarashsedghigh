@@ -6,6 +6,10 @@ Welcome to my corner of GitHub! I'm a Ph.D. student in Applied Cryptography at t
 - 🤖 I’m also expanding my research into **privacy-enhancing technologies (PETs)** like Multi-party Computation (MPC) and Fully Homomorphic Encryption (FHE).
 - 🧠 Always excited by **cryptography, machine learning, and secure system design**!
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashsedghigh&theme=radical)](https://github.com/kiarashsedghigh/github-readme-stats)
+
+
 ## 🌱 Currently Learning
 I’m constantly evolving my knowledge in **post-quantum cryptography** and **privacy-preserving technologies** to address challenges like privacy, decentralization, and transparency in both distributed authentication systems and privacy-preserving artificial intelligence systems.
 
