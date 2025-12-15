@@ -3,7 +3,7 @@
 </p> -->
 
 <h1 align="center">Kiarash Sedghi 👋</h1>
-<p align="center">Applied Cryptography | Post-Quantum Security | Privacy-Preserving AI/ML</p>
+<p align="center">Applied and Post-Quantum Cryptography </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,12 +26,25 @@ Previously, I developed lightweight PQ-secure authentication mechanisms for IoT 
 ## 💻 Tech Stack & Research Focus
 <p align="center"> <em>Programming Languages </em> </p>
 
-<p align="center"> <!-- Programming & Hardware --> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
+<p align="center">
+  <!-- Programming & Hardware -->
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-F76C2F?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
+
 
   <p align="center"> <em>Core research areas & cryptographic interests</em> </p>
 
 
-</p> <p align="center"> <!-- Cryptography & Research Areas --> <img alt="MPC" src="https://img.shields.io/badge/MPC-F2C94C?style=for-the-badge"/> <img alt="FHE" src="https://img.shields.io/badge/FHE-6FCF97?style=for-the-badge"/> <img alt="Threshold Signatures" src="https://img.shields.io/badge/Threshold%20Signatures-FF5733?style=for-the-badge"/> <img alt="Lattice Crypto" src="https://img.shields.io/badge/Lattice%20Crypto-8E44AD?style=for-the-badge"/> </p> 
+<p align="center">
+  <!-- Cryptography & Research Areas -->
+  <img alt="Threshold Signatures" src="https://img.shields.io/badge/Threshold%20Signatures-FF5733?style=for-the-badge"/>
+  <img alt="Lattice Crypto" src="https://img.shields.io/badge/Lattice%20Crypto-8E44AD?style=for-the-badge"/>
+  <img alt="FHE" src="https://img.shields.io/badge/FHE-6FCF97?style=for-the-badge"/>
+</p>
 
 
 ---
